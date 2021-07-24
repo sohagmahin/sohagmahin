@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 📫 How to reach me: Email me at sohagmahin@gmail.com
+
 <!--
 **sohagmahin/sohagmahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
