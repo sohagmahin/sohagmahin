@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **expressJS**
 
-- 💬 Ask me about **flutter and react**
+- 💬 Ask me about **[flutter](https://flutter.dev/) and [react](https://reactjs.org/)**
 
 - 📫 How to reach me **sohagmahin@gmail.com**
 
-- ⚡ Fun fact, **I can build hackintosh😎**
+- ⚡ Fun fact, **I can build [hackintosh](https://dortania.github.io/getting-started/)😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
