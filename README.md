@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **[flutter](https://flutter.dev/) and [react](https://reactjs.org/)**
 
-- 📫 How to reach me **sohagmahin@gmail.com**
+- 📫 How to reach me? **sohagmahin@gmail.com**
 
 - ⚡ Fun fact, **I can build [hackintosh](https://dortania.github.io/getting-started/)😎**
 
