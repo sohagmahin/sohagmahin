@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohagmahin&label=Profile%20views&color=0e75b6&style=flat" alt="sohagmahin" /> </p>
 
-- 🔭 I’m currently working on [**Spekter GmbH**](https://www.spekter.de/) as **Software Engineer**
+- 🔭 I’m currently working on [**Spekter GmbH**](https://www.spekter.de/) `(remote)` as **Software Engineer**
 
 - 🌱 I’m currently working on my learning project -> [Vault manager](https://github.com/sohagmahin/vault-manager)
 
