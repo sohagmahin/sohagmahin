@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [**Spekter GmbH**](https://www.spekter.de/) `(remote)` as **Software Engineer**
 
-- 🌱 I’m currently working on my learning project -> [Vault manager](https://github.com/sohagmahin/vault-manager)
-
 - 💬 Ask me about **[flutter](https://flutter.dev/) and [react](https://reactjs.org/)**
 
 - 📫 How to reach me? **sohagmahin@gmail.com**
