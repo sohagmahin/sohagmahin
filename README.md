@@ -9,8 +9,6 @@
 
 - 📫 How to reach me? **sohagmahin@gmail.com**
 
-- ⚡ Fun fact, **I can build [hackintosh](https://dortania.github.io/getting-started/)😎**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shamim-jahan-sohag-161ba5ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamim-jahan-sohag-161ba5ba" height="30" width="40" /></a>
