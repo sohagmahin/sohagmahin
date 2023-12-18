@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **[flutter](https://flutter.dev/) and [react](https://reactjs.org/)**
 
-- 📫 How to reach me? mail to -> **sohagmahin@gmail.com**
+- 📫 How to reach me? `📩` 👉 **sohagmahin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
