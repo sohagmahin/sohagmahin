@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohagmahin&label=Profile%20views&color=0e75b6&style=flat" alt="sohagmahin" /> </p>
 
-- 🔭 I’m currently working on [**Spekter GmbH**](https://www.spekter.de/) as **Software Engineer** `(remote)`
+- 🔭 I’m currently working on [**V2 Technologies LTD**](https://v2.ltd/) as **Software Engineer**
 
 - 💬 Ask me about **[NextJS](https://nextjs.org/)**, **[react](https://reactjs.org/)** and **[flutter](https://flutter.dev/)**
 
