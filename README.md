@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **[NextJS](https://nextjs.org/)**, **[react](https://reactjs.org/)** and **[flutter](https://flutter.dev/)**
 
-- 📫 How to reach me? `📩` 👉 **sohagmahin@gmail.com**
+- 📫 How to reach me? `📩` 👉 **sohagcoder@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
